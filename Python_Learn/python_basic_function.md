@@ -154,5 +154,9 @@ a = "Python is the best choice" #문자열 위치 찾기 .find
 print(a.find("b"))
 14
 
+# 변수 a를 지정하여 대입
+f'{a}'
+
+
 ```
 
